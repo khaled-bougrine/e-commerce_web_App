@@ -1,0 +1,12 @@
+pipeline {
+  agent amy 
+  stage("build") {
+  steps {
+          echo "lalalala"
+        }
+ 
+ }
+ 
+
+
+}
